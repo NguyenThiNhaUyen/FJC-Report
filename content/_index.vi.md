@@ -26,7 +26,7 @@ chapter: false
 &emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 24/12/2025
 
 
-<img src="/images/profile.jpg" alt="Your profile picture">
+<img src="{{ "images/profile.jpg" | relURL }}" alt="Your profile picture">
 
 
 ### Nội dung báo cáo

@@ -4,7 +4,7 @@
 	"title": "Báo cáo thực tập",
 	"tags": [],
 	"description": "",
-	"content": "Báo cáo thực tập Thông tin sinh viên: Họ và tên: Nguyễn Thị Nhã Uyên\nSố điện thoại: 0938343715\nEmail: uyenntnse183774@fpt.edu.vn\nTrường: Đại học FPT\nNgành: Kỹ thuật phần mềm\nLớp: AWS082025\nCông ty thực tập: Công ty TNHH Amazon Web Services Vietnam\nVị trí thực tập: FCJ Cloud Intern\nThời gian thực tập: Từ ngày 08/09/2025 đến ngày 24/12/2025\nNội dung báo cáo Worklog Proposal Các bài blogs đã dịch Các events đã tham gia Workshop Tự đánh giá Chia sẻ, đóng góp ý kiến "
+	"content": "Báo cáo thực tập Thông tin sinh viên: Họ và tên: Nguyễn Thị Nhã Uyên\nSố điện thoại: 0938343715\nEmail: uyenntnse183774@fpt.edu.vn\nTrường: Đại học FPT\nNgành: Kỹ thuật phần mềm\nLớp: AWS082025\nCông ty thực tập: Công ty TNHH Amazon Web Services Vietnam\nVị trí thực tập: FCJ Cloud Intern\nThời gian thực tập: Từ ngày 08/09/2025 đến ngày 24/12/2025\n\u0026lt;img src=\u0026quot;{{ \u0026ldquo;images/profile.jpg\u0026rdquo; | relURL }}\u0026quot; alt=\u0026ldquo;Your profile picture\u0026rdquo;\u0026gt;\nNội dung báo cáo Worklog Proposal Các bài blogs đã dịch Các events đã tham gia Workshop Tự đánh giá Chia sẻ, đóng góp ý kiến "
 },
 {
 	"uri": "https://nguyenthinhauyen.github.io/FJC-Report/vi/5-workshop/5.4-s3-onprem/5.4.1-prepare/",
