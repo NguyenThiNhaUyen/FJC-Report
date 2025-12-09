@@ -26,7 +26,7 @@ chapter: false
 &emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 24/12/2025
 
 
-<img src="/images/profile.jpg" alt="Your profile picture">
+![](/images/profile.jpg)
 
 
 ### Nội dung báo cáo
@@ -37,4 +37,4 @@ chapter: false
 4.  [Các events đã tham gia](4-EventParticipated/)
 5.  [Workshop](5-Workshop/)
 6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)<img src="/images/profile.jpg" alt="Your profile picture">
