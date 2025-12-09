@@ -15,14 +15,14 @@ pre: " <b> 5.3.1 </b> "
 + Chọn `'Other type of secret'`
 + Trong phần Key/value pairs, chúng ta sẽ có 5 tên secret
 
-![endpoint](/images/5-Workshop/5.3-S3-vpc/image.png)
-![dev/metro/google](/images/5-Workshop/5.3-s3-vpc/image_copy_2.png)
-![dev/metro/ddd](/images/5-Workshop/5.3-s3-vpc/image_copy_3.png)
+
+![dev/metro/google](/images/5-Workshop/5.3-S3-vpc/image_copy_2.png)
+![dev/metro/ddd](/images/5-Workshop/5.3-S3-vpc/image_copy_3.png)
 
 + Các bước tiếp theo giữ mặc định. 
 
-![something](/images/5-Workshop/5.3-s3-vpc/image_copy.png)
+![something](/images/5-Workshop/5.3-S3-vpc/image_copy.png)
 
 + Sau khi tạo xong cả 5 secrets manager:
 
-![5 secrets manager](/images/5-Workshop/5.3-s3-vpc/image_copy_4.png)
+![5 secrets manager](/images/5-Workshop/5.3-S3-vpc/image_copy4.png)
