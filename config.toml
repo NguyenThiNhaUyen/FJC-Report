@@ -1,9 +1,11 @@
 baseURL = "https://nguyenthinhauyen.github.io/FJC-Report"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+
+defaultContentLanguage = "en"
 
 # For search functionality
 [outputs]
