@@ -28,8 +28,6 @@ chapter: false
 
 ![Profile picture](/FJC-Report/images/profile.jpg)
 
-docs/images/profile.jpg
-
 ### Nội dung báo cáo
 
 1.  [Worklog](1-Worklog/)
