@@ -1,5 +1,5 @@
 baseURL = "https://nguyenthinhauyen.github.io/FJC-Report/"
-publishDir = "docs"
+publishDir = "public"
 relativeURLs = true
 canonifyURLs = true
 
