@@ -26,7 +26,7 @@ chapter: false
 &emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 24/12/2025
 
 
-![Profile picture](/FJC-Report/images/profile.jpg)
+<img src="https://nguyenthinhauyen.github.io/FJC-Report/images/profile.jpg" alt="Ảnh đại diện">
 
 ### Nội dung báo cáo
 
