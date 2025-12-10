@@ -37,4 +37,4 @@ chapter: false
 4.  [Các events đã tham gia](4-EventParticipated/)
 5.  [Workshop](5-Workshop/)
 6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)<img src="/images/profile.jpg" alt="Your profile picture">
+7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
